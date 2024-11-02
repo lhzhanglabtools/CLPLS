@@ -1,7 +1,7 @@
 # CLPLS_package
 
 ## Overview
-Deciphering the cellular abundance in spatial transcriptomics is crucial for revealing spatial architecture of cellular heterogeneity within tissues. However, some of the current spatial sequencing technologies are in low resolutions, leading to, each spot has multiple heterogeneous cells. Additionally, current spatial deconvolution methods lack the ability to utilize multi-modality information such as gene expression and chromatin accessibility from single-cell multi-omics data. We introduce CLPLS, an efficient spatial deconvolution method that combines graph contrastive learning and partial least squares regression to estimate the cell-type composition at each spatial location. Moreover, CLPLS is a flexible method that it can be extended to integrating spatial transcriptomics data with single-cell multi-omics data, enabling the exploration of the spatial landscape of epigenomics previously not visible by existing methods.
+CLPLS is an efficient spatial deconvolution method that combines graph contrastive learning and partial least squares regression to estimate the cell-type composition at each spatial location. Moreover, CLPLS is a flexible method that it can be extended to integrat spatial transcriptomics data with single-cell multi-omics data, enabling the exploration of the spatial landscape of epigenomics.
 
 ## Requirements
 
